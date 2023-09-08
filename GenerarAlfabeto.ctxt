@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GenerarAlfabeto
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GenerarAlfabeto\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=base
+comment1.target=Simbolo[]\ generarAlfabeto(int)
+numComments=2

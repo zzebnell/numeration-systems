@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Buscar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BuscarSimbolo\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=simbolo\ alfabeto
+comment1.target=int\ buscarSimbolo(char,\ Simbolo[])
+comment2.params=valorAbsoluto\ alfabeto
+comment2.target=int\ buscarValorAbsoluto(int,\ Simbolo[])
+numComments=3
